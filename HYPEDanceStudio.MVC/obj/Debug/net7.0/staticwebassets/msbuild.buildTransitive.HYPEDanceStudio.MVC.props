@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HYPEDanceStudio.MVC.props" />
+</Project>

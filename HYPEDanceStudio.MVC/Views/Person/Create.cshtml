@@ -1,0 +1,56 @@
+﻿
+@using HYPEDanceStudio.Application.Person.Commands.CreatePerson;
+@model CreatePersonCommand
+
+<h1>Create person</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form action="/Person/Create" method="post">
+            <div class="form-group mb-3">
+                <label class="control-label " asp-for="Name">Name:</label>
+                <input class="form-control" type="text" asp-for="Name">
+                <span asp-validation-for="Name" class="text danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="LastName">Last name:</label>
+                <input class="form-control" type="text" asp-for="LastName">
+                <span asp-validation-for="LastName" class="text danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Location">Location:</label>
+                <input class="form-control" type="text" asp-for="Location">
+                <span asp-validation-for="Location" class="text danger"></span>
+
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="PhoneNumber">Phone number:</label>
+                <input class="form-control" type="text" asp-for="PhoneNumber">
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Email">Email:</label>
+                <input class="form-control" type="text" asp-for="Email">
+            </div>
+
+            <div class="form-group mb-3">
+                <input type="submit" value="Create" class="btn btn-primary">
+                <a class="btn btn-light" asp-action="Index">Back to dancers</a>
+            </div>
+
+
+      
+        </form>
+    </div>
+</div>
+
+
+    
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,12 @@
+F:\MVC hype\HYPEDanceStudio.Domain\bin\Debug\net7.0\HYPEDanceStudio.Domain.deps.json
+F:\MVC hype\HYPEDanceStudio.Domain\bin\Debug\net7.0\HYPEDanceStudio.Domain.dll
+F:\MVC hype\HYPEDanceStudio.Domain\bin\Debug\net7.0\HYPEDanceStudio.Domain.pdb
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.AssemblyInfoInputs.cache
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.AssemblyInfo.cs
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.csproj.CoreCompileInputs.cache
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.dll
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\refint\HYPEDanceStudio.Domain.dll
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.pdb
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\ref\HYPEDanceStudio.Domain.dll
+F:\MVC hype\HYPEDanceStudio.Domain\obj\Debug\net7.0\HYPEDanceStudio.Domain.csproj.AssemblyReference.cache
